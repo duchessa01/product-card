@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-(images/web-view.jpg)
-(images/mobile-view.jpg)
+images/web-view.jpg
+images/mobile-view.jpg
 
 ### Links
 
