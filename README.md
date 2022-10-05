@@ -11,6 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Acknoledgments](#acknoledgments)
 
 - [Author](#author)
 
@@ -51,6 +52,10 @@ Users should be able to:
 
 I practised CSS Grid and some of it's incredibles functionalities.
 
+
+### Acknoledgments
+
+A big thank you to AntoineC (http://www.github.com/AntoineC-dev/) for the invaluable help provided, together with clear explanations. 
 
 ## Author
 
